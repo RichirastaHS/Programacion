@@ -1,0 +1,10 @@
+h1 {
+    color: rgb(19, 70, 85);
+    font-family: cambria;
+    font-size: large;
+}
+p {
+    color: rgba(73, 33, 10, 0.863);
+    font-family: consolas;
+    font-size: medium;
+}
